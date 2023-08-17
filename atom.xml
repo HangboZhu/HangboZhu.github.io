@@ -3,11 +3,11 @@
   <title>Welcome to my Web!</title>
   
   <subtitle>By Hangbo Zhu</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://github.com/HangboZhu/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://github.com/HangboZhu/"/>
   <updated>2023-08-11T02:55:09.467Z</updated>
-  <id>http://example.com/</id>
+  <id>https://github.com/HangboZhu/</id>
   
   <author>
     <name>Hangbo Zhu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2023/08/11/hello-world/"/>
-    <id>http://example.com/2023/08/11/hello-world/</id>
+    <link href="https://github.com/HangboZhu/2023/08/11/hello-world/"/>
+    <id>https://github.com/HangboZhu/2023/08/11/hello-world/</id>
     <published>2023-08-11T02:55:09.467Z</published>
     <updated>2023-08-11T02:55:09.467Z</updated>
     
